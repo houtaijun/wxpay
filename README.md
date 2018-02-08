@@ -1,4 +1,4 @@
 #
 ~~~
-composer require kelude/think-wxpay
+composer require erhuo/wxpay
 ~~~
